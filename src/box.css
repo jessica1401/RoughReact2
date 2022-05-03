@@ -1,0 +1,10 @@
+.box {
+    border: 2px solid saddlebrown;
+    margin-bottom: 30px;
+}
+
+.box_div {
+    background-color: pink;
+    border: 1px solid blue;
+    font-size: 30px;
+}
